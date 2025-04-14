@@ -63,7 +63,7 @@ Asegúrate de tener instalado lo siguiente:
 1.  Ejecuta la API:
 
     ```bash
-    uvicorn main:app --reload
+    uvicorn app:app --reload
     ```
 
 
